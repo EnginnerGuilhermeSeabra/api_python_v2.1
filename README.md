@@ -12,7 +12,7 @@ Para acompanhar a documentação e fazer testes com a API, pode acessar no ender
 
 ## Fluxo da arquitetura API Python
 
-
+.
 ### API Python (FastAPI):
 
 Recebe as requisições do backend .NET no endpoint /generate/.
